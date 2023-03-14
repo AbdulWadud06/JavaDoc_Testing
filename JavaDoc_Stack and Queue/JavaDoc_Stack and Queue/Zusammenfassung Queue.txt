@@ -1,0 +1,19 @@
+
+In Interface Queue <E>:
+
+E: Generic
+
+Anwendung:
+
+import java.util.*
+
+public interface Queue<E>
+extends Collection<E>
+
+Methoden:
+
+boolean add(E e):
+
+
+
+
